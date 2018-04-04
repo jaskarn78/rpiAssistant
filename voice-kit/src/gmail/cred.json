@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "raspberrypiassistant-189718",
+  "private_key_id": "46505c55b782997218c3b33abf125d0f8b3614ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxNKaqDFfmzw/5\ndOPvmgSswMp4jtcDSJjG2mTSn5BsriOItZixXaonbIzpjz5vZ6PZtssA/MuLoPkE\n8W841genJ1GBVTb3C0G5tYHlIW/ehA7EckClM88vu8vfNGNEwmqlcq7eDZ0t1Kik\nhbySlVMRnPa1tjjxCKvC28kBfOlDP9kLjO09dw0o9VkwmxpcICMkT7KHAgOZKrm9\nkmVOH5TFDi59pX8bBQeKQoatm4CEJuN/9m5pvAKfgCukxi8j2C+vnk82TqBBjR66\nJUobI+L/hlgcvon1l7Y6wsfRfmM4j9QWy5U2DO3xLm0G47ChPGKBong2ogjCQ1Yd\n4BT8alGpAgMBAAECggEAGS44I0skZSyLQpFfn7ktF4yVuNKOBG4ZIjiqbFuMNEVS\ne1ICuUFsCl9xw/E87VZhgXBozGJ1B17/w7oNv0UlSpVbDvEYTGaRwl05G2Fy+hWd\n25W4peuvce2np2H/Bn2cleyuoz3Kq1aKrZuWE5DwgDzjudKDqOHoi69GPYCNzPuq\nsED0Ser02JRzao4IY2T/GAFXHlC1SjHLc5YnEV6pUgOOpQ7tyfqr12X66FKOJaqa\nHrMb1vK2WWbIhDvZeEsoqaOlBY3mVveDUJ8BlYzXJhwkAd2NMcKWzFYQLKDlG4Us\nAaFZb4E4Awu/0evljmydqX7ri7qTAyWUey31IVULuQKBgQDv3ZmDeXuiE4uSHMfu\novAHdCHV5izTPHaI9pyI7ezWFYmWKSC9kjcckdwjqHyGwcCZSDq8fWmySUFmC/lE\nXs5s/J1v3O8CIIXS6ZsRoXNtpb2LppBKkDt17TK4cerkZRMTtvIFMHN4Mj2ruz8j\nfVLgDE8doI7lz7vd/2BeXC6sdwKBgQC9IBG/H7B2CYU7BMHrDBzs6Qig6Y5nwYq/\nBknjIgr55cttJ6GBRpjeP/zDkqtzu6vq2To0dbLW4qqymeiGTQ6SiLwJ/4M/Ni5c\nLSJEqlV8XKT8Yn30ykoJrvret2J61oDjTPRvsGtPLhiSlz8cf4CSJH2anmjwLEJQ\n5ffxlTIa3wKBgCfRMk2H2gUSl4Wer3WmqI+kMIWwWtqJ2+dqgJueW0VCd/9sPloZ\nrnpYoCFvM5SvDwii29U0QFpvHKMS88LstfmTiZLrKuXAflZ/ntUzZtTZwXgwIx2t\niaFOya+igWp+eMc6BDzmSRS3ylL6l0WN5Tb59Bwn7fCqJjZ40Qd45+qLAoGBAJYv\n/WfVdoCGFvNDV+ucduv8Mwn170yd+dyw1cQ1qJnCzsUkD7Flqsfz8Hou41DI3EFn\nuD0oqpjS79NdPbZJQyVCyHD4I/XyxOYWQXxd9/0GZU63uGbIrfr6peZvoxkBduEK\nn6KCavU6GfFvgoLTDfsAV26OFa+EtjUgKsICRQPpAoGBAOBGSGZU26/DnZDmNVHq\n9JHG9t87obONg/rhyEN5iaYbRbryswJBxwrCyBitSlDViJviRM/1g6WieULD4/Pz\nJ6DLKAi/giMOhrDwx5iuDZM+2cOKDMNvqU3bMRPD46IYbziXpUyIQYqYntR6Th8U\n+764y0nAjenezCi/hCPfgqsA\n-----END PRIVATE KEY-----\n",
+  "client_email": "rpiproject@raspberrypiassistant-189718.iam.gserviceaccount.com",
+  "client_id": "101555068359876041118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rpiproject%40raspberrypiassistant-189718.iam.gserviceaccount.com"
+}

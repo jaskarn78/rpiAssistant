@@ -1,0 +1,1 @@
+45 6 * * * python /home/pi/scripts/alarm/getWeather.py
